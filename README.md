@@ -8,7 +8,8 @@ Xylophone project
  By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
 
 
-#What you will learn
+# What you will learn
+
 How to incorporate open source libraries of code into your project using Flutter Packages.
 How to play sound on both iOS and Android.
 How to generate repeated user interface Widgets.
