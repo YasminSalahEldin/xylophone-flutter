@@ -2,9 +2,9 @@
 Xylophone project 
 
 
-#Xylophone 🎹
+# Xylophone 🎹
 
-#Our Goal
+# Our Goal
  By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
 
 
